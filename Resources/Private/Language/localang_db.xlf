@@ -10,10 +10,7 @@
 				<source>Füge TypoScript als ContentElement ein</source>
 			</trans-unit>
             <trans-unit id="typoscript" xml:space="preserve">
-				<source>Typoscript (Object COA / COA_INT)</source>
-			</trans-unit>
-            <trans-unit id="no_cache" xml:space="preserve">
-				<source>Uncached object (COA_INT)</source>
+				<source>TypoScript</source>
 			</trans-unit>
         </body>
     </file>
